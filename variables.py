@@ -1,0 +1,5 @@
+custom = "Discord Tag"
+tourney = "https://www.toornament.com/en_US/tournaments/4368727611365212160/"
+bracket = "https://www.toornament.com/en_US/tournaments/4368727611365212160/stages/4368728536262590464/"
+prefix = "@"
+aftertext = "You're up now! Join SERVER"
